@@ -1,0 +1,8 @@
+Powershell.
+PowerShell Ч расшир€емое средство автоматизации от Microsoft с открытым исходным кодом, состо€щее из оболочки с интерфейсом командной строки и сопутствующего €зыка сценариев.
+¬первые публично €зык был продемонстрирован на ѕрофессиональной конференции разработчиков (Professional Developers Conference, PDC) в сент€бре 2003 года под кодовым названием Monad.
+»значально средство выпущено как компонент Windows под названием Windows PowerShell.
+ќткрытый исходный код был выпущен с началом разработки PowerShell Core в августе 2016 года. 
+Long description.
+An operator is a language element that you can use in a command or expression.
+PowerShell supports several types of operators to help you manipulate values.
